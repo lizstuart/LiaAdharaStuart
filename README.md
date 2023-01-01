@@ -11,13 +11,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" />                
   </div>
   <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>         
   </div>
   <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   </div>
   <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs.svg" />              
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />              
   </div>
  
          
