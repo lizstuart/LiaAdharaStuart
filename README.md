@@ -6,8 +6,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizstuart&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##________________________________________________________________________
- <i class="devicon-git-plain colored"></i>
+
+  <div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />                
+  </div>
+  <div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />         
+  </div>
+  <div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div>
+  <div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />              
+  </div>
+   <div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />              
+  </div>
+         
           
  
           
