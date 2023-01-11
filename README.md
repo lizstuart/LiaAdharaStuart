@@ -2,7 +2,7 @@
 
 Eu me chamo Liz Adhara, iniciei meus projetos em programação em 2022, através do curso de Desenvolvimento de Software pela Cubos Academy.
 
-Apaixonada por animais mãe de duas pets idosas Alice🐶e Priscila🐶.
+Apaixonada por animais e mãe de duas pets idosas Alice🐶e Priscila🐶.
 
 <div align="center">
   <a href="https://github.com/lizstuart">
