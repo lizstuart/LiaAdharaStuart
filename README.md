@@ -1,4 +1,4 @@
-## Fala galera, beleza?
+## Olá!
 
 Eu me chamo Liz Adhara, iniciei meus projetos em programação em 2022, através do curso de Desenvolvimento de Software pela Cubos Academy.
 
