@@ -2,7 +2,7 @@
 
 Eu me chamo Liz Adhara, estou em transição de carreira e iniciei meus projetos em programação em 2022, através do curso de Desenvolvimento de Software pela Cubos Academy.
 
-Gosto de aprender novas maneiras de realizar tarefas.
+Gosto de aprender novas maneiras de realizar tarefas, deixando-as mais ágeis e eficazes. Sejam de tarefas de rotina até às mais complexas.
 
 Sou apaixonada por animais e mãe de duas pets idosas Alice🐶e Priscila🐶.
 
