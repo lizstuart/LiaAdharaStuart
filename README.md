@@ -4,7 +4,7 @@ Eu me chamo Liz Adhara, estou em transição de carreira e iniciei meus projetos
 
 Gosto de aprender novas maneiras de realizar tarefas, deixando-as mais ágeis e eficazes. Sejam de tarefas de rotina até às mais complexas.
 
-Sou apaixonada por animais e mãe de duas pets idosas Alice🐶e Priscila🐶.
+Sou apaixonada por animais tenho duas pets idosas Alice🐶e Priscila🐶.
 
 <div align="center">
   <a href="https://github.com/lizstuart">
